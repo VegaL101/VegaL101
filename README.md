@@ -11,12 +11,10 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Automate task in python          |        <a href="https://github.com/VegaL101/Updating-Files-in-python">Update Files Lab</a>|
+| Query and filter searches in a database using SQL    | <a href="https://github.com/VegaL101/SQL-Queries-Lab">SQL Queries Lab</a>|
+| Change permissions on file and directories | <a href="https://google.com">File Permissions Lab</a>|
+
 
 ## Tools
 
@@ -39,5 +37,6 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+ - <a href="https://github.com/VegaL101/Updating-Files-in-python">Update Files Lab</a>
+ - <a href="https://github.com/VegaL101/SQL-Queries-Lab">SQL Queries Lab</a>
+-  <a href="https://google.com">File Permissions Lab</a>
