@@ -1,15 +1,13 @@
 # Hello, I'm Luis Vega
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+ Motivated individual seeking to launch a career in cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My academic journey in computer science has steered me towards cybersecurity, igniting a profound passion for the field. Continuously pursuing knowledge and mentorship, I am eagerly poised to embark on this path, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +19,7 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
