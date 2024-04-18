@@ -31,7 +31,6 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/Google-Cyber%20Security-blue?style=for-the-badge&logo=google&logoColor=white" />
 </div>
