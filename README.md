@@ -40,5 +40,5 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 ## Projects
 - <a href="https://github.com/VegaL101/Updating-Files-in-python">Update Files Lab</a>
 - <a href="https://github.com/VegaL101/SQL-Queries-Lab">SQL Queries Lab</a>
--  <a href="https://google.com">File Permissions Lab</a>
+-  <a href="https://github.com/VegaL101/File-permissions-lab">File Permissions Lab</a>
 -  <a href="https://github.com/VegaL101/Setting-up-a-basic-home-lab">Hoome Lab setup</a>
