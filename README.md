@@ -14,7 +14,7 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 | Automate task in python          |        <a href="https://github.com/VegaL101/Updating-Files-in-python">Update Files Lab</a>|
 | Query and filter searches in a database using SQL    | <a href="https://github.com/VegaL101/SQL-Queries-Lab">SQL Queries Lab</a>|
 | Change permissions on files and directories | <a href="https://github.com/VegaL101/File-permissions-lab.">File Permissions Lab</a>|
-| How to create a basic home lab | <a href="https://github.com/VegaL101/File-permissions-lab.">Home Lab setup</a>|
+| How to create a basic home lab | <a href="https://github.com/VegaL101/Setting-up-a-basic-home-lab">Home Lab setup</a>|
 
 
 ## Tools
@@ -41,4 +41,4 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 - <a href="https://github.com/VegaL101/Updating-Files-in-python">Update Files Lab</a>
 - <a href="https://github.com/VegaL101/SQL-Queries-Lab">SQL Queries Lab</a>
 -  <a href="https://google.com">File Permissions Lab</a>
--  <a href="https://google.com">Hoome Lab setup</a>
+-  <a href="https://github.com/VegaL101/Setting-up-a-basic-home-lab">Hoome Lab setup</a>
