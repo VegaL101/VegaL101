@@ -15,7 +15,7 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 | Query and filter searches in a database using SQL    | <a href="https://github.com/VegaL101/SQL-Queries-Lab">SQL Queries Lab</a>|
 | Change permissions on files and directories | <a href="https://github.com/VegaL101/File-permissions-lab.">File Permissions Lab</a>|
 | How to create a basic home lab | <a href="https://github.com/VegaL101/Setting-up-a-basic-home-lab">Home Lab setup</a>|
-| How to create a basic home lab | <a href="https://github.com/VegaL101/Setting-up-a-basic-home-lab">Home Lab setup</a>|
+| set up defensive measures against a targeted network scan | <a href="https://github.com/VegaL101/Simulate-a-basic-network-attack-and-defense-">attack and defend simulation</a>|
 
 
 ## Tools
@@ -43,3 +43,4 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 - <a href="https://github.com/VegaL101/SQL-Queries-Lab">SQL Queries Lab</a>
 -  <a href="https://github.com/VegaL101/File-permissions-lab">File Permissions Lab</a>
 -  <a href="https://github.com/VegaL101/Setting-up-a-basic-home-lab">Home Lab setup</a>
+-  <a href="https://github.com/VegaL101/Simulate-a-basic-network-attack-and-defense-">attack and defend simulation</a>
