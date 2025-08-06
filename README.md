@@ -17,7 +17,7 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 | How to create a basic home lab | <a href="https://github.com/VegaL101/Setting-up-a-basic-home-lab">Home Lab setup</a>|
 | set up defensive measures against a targeted network scan | <a href="https://github.com/VegaL101/Simulate-a-basic-network-attack-and-defense-">Attack and defend simulation</a>|
 | Create and implement VLAN's on a network | <a href="https://github.com/VegaL101/Network-security-project">Inter VLAN Network Project</a>|
-| set up defensive measures against a targeted network scan | <a href="https://github.com/VegaL101/Simulate-a-basic-network-attack-and-defense-">Attack and defend simulation</a>|
+| Subnet and Configure a network | <a href="https://github.com/VegaL101/Office-Network-Project">Office Network Project</a>|
 
 
 ## Tools
