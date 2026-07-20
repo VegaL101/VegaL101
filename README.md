@@ -37,7 +37,7 @@ My academic journey in computer science has steered me towards cybersecurity, ig
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Google-Cyber%20Security-blue?style=for-the-badge&logo=google&logoColor=white" /></p>
- <img src="<img width="340" height="340" src="https://github.com/user-attachments/assets/f7d80ca5-0471-46d7-a8c5-b490b7c637d8" /> <br> 
+ <img src="https://github.com/user-attachments/assets/f7d80ca5-0471-46d7-a8c5-b490b7c637d8" /> <br> 
  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <br> <p>(AWS cloud Practitioner in progress)</p>
   
 </div>
